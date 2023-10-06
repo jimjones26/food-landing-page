@@ -6,10 +6,12 @@
 	<div class="flex-1">
 		<img src="/logo.svg" alt="" class="max-w-[34px]" />
 	</div>
-	<nav class="flex space-x-10 text-sm text-black font-bold items-center">
-		<a href="/">Home</a>
-		<a href="/">Menu</a>
-		<a href="/">About Us</a>
-		<Button class="rounded-none px-8 h-9">Log In</Button>
+	<nav class="flex items-center">
+		<Button variant="ghost" class="text-sm text-black font-bold px-5 h-8 rounded-none">Home</Button>
+		<Button variant="ghost" class="text-sm text-black font-bold px-5 h-8 rounded-none">Menu</Button>
+		<Button variant="ghost" class="text-sm text-black font-bold px-5 h-8 rounded-none"
+			>About Us</Button
+		>
+		<Button class="rounded-none px-8 h-8 ml-3">Log In</Button>
 	</nav>
 </header>
