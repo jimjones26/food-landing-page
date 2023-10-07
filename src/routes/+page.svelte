@@ -4,7 +4,7 @@
 </script>
 
 <Header />
-<section class="flex flex-col px-11 sm:px-20 space-y-6 md:flex-row">
+<section class="flex flex-col px-11 sm:px-20 space-y-6 md:flex-row mb-6">
 	<div class="flex flex-col space-y-8">
 		<Button class="self-start">Full Menu</Button>
 		<h1 class="text-white font-medium text-4xl">Spicy Steaks Turkish Cuisine</h1>
