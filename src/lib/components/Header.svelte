@@ -22,6 +22,9 @@
 			class="text-[#EABD67] hover:bg-[#4F442F] hover:text-[#EABD67]  active:bg-black active:text-[#EABD67] lg:hover:bg-[#B08E4D] lg:active:text-black lg:active:bg-transparent lg:text-sm lg:text-black font-bold px-5 h-8 rounded-none lg:hover:text-black"
 			>About Us</Button
 		>
-		<Button class="rounded-none px-8 h-8 ml-3">Log In</Button>
+		<Button
+			class="bg-[#EABD67] text-black font-bold hover:bg-[#4F442F] active:bg-[#EABD67] lg:bg-black lg:text-[#EABD67] lg:active:bg-black rounded-none px-8 h-8 ml-3"
+			>Log In</Button
+		>
 	</nav>
 </header>
