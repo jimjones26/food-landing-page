@@ -5,7 +5,7 @@
 <div class="relative w-screen h-screen">
 	<div class="flex flex-col lg:flex-row w-full h-full bg-[#090909]">
 		<div
-			class="h-[58%] lg:w-[58%] lg:h-full bg-no-repeat bg-cover bg-center bg-[url('grunge-overlay-5.png')]"
+			class="h-[56%] lg:w-[56%] lg:h-full bg-no-repeat bg-cover bg-center bg-[url('grunge-overlay-5.png')]"
 		/>
 		<div class="flex-1 -mt-[47px] lg:-ml-[47px]">
 			<span
