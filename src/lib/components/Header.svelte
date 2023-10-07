@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { Button } from '$lib/components/ui/button';
+	import { Menu } from 'lucide-svelte';
 </script>
 
 <header class="container flex py-20 px-20 items-center">
@@ -27,6 +28,11 @@
 		<Button
 			class="bg-[#EABD67] text-black font-bold hover:bg-[#4F442F] active:bg-[#EABD67] lg:bg-black lg:text-[#EABD67] lg:active:bg-black rounded-none px-8 h-8 ml-3"
 			>Log In</Button
+		>
+		<Button
+			variant="ghost"
+			class="flex sm:hidden text-[#EABD67] hover:bg-[#4F442F] hover:text-[#EABD67] active:bg-black active:text-[#EABD67] px-2 h-8 ml-1 rounded-none"
+			><Menu /></Button
 		>
 	</nav>
 </header>
