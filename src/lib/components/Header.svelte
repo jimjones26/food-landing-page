@@ -3,7 +3,7 @@
 	import { Menu } from 'lucide-svelte';
 </script>
 
-<header class="container flex py-20 px-20 items-center">
+<header class="container flex py-11 px-11 sm:py-20 sm:px-20 items-center">
 	<div class="flex-1">
 		<img src="/logo.svg" alt="" class="max-w-[34px]" />
 	</div>
